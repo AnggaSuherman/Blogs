@@ -15,11 +15,6 @@ Here is a quick example of the completed project:
 
 ![](https://thumbs.gfycat.com/SaneWeightyBlackfish-max-1mb.gif)
 
-<div style="text-align:center">
-<iframe src='https://gfycat.com/ifr/SaneWeightyBlackfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
-</div>
-
-
 ## Prerequisites
 
 The following prerequisites are required to run this project: 
