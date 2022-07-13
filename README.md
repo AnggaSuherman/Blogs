@@ -13,6 +13,8 @@ From there, we can move on to the frontend which will be simple: three dropdowns
 
 Here is a quick example of the completed project: 
 
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://gfycat.com/ifr/SaneWeightyBlackfish))
+
 <div style="text-align:center">
 <iframe src='https://gfycat.com/ifr/SaneWeightyBlackfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </div>
