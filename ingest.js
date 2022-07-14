@@ -42,7 +42,10 @@ fs.createReadStream(__dirname + '/cereal.csv')
         arr.push(row)
     })
     .on('end', () => {
-        store.putContainer(conInfo)
+        store.dropContainer(containerName)
+            .then(() => {
+                return store.putContainer(conInfo)
+           })    
             .then(col => {
                 arr.forEach(row => {
                     return col.put([
